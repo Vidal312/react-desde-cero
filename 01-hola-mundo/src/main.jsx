@@ -36,4 +36,4 @@ const root = createRoot(document.getElementById('root'));
 //
 // <h1>¡Hola, Mundo!</h1> es JSX. Se ve como HTML, pero NO es
 // HTML — es JavaScript que React transforma a HTML por nosotros.
-root.render(<h1>¡Hola, Mundo!</h1>);
+root.render(<h1>¡Hola, Mundial 2026!</h1>);
